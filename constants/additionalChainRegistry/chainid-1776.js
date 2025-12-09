@@ -4,8 +4,14 @@ export const data = {
   "icon": "injective",
   "rpc": [
     "https://sentry.evm-rpc.injective.network",
-    "wss://sentry.evm-ws.injective.network",
     "https://injectiveevm-rpc.polkachu.com",
+    "https://injective-evm-rpc.highstakes.ch",
+    "https://injective-evm-rpc.scvsecurity.io",
+    "https://injective.json-rpc.decentrio.ventures",
+    "wss://sentry.evm-ws.injective.network",
+    "wss://injective-evm-rpc.highstakes.ch/ws",
+    "wss://injective-evm-ws.scvsecurity.io",
+    "wss://injectiveevm-rpc.polkachu.com/websocket",
     "wss://injectiveevm-ws.polkachu.com"
   ],
   "features": [{ "name": "EIP155" }, { "name": "EIP1559" }],
